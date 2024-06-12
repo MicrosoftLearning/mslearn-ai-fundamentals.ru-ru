@@ -16,6 +16,6 @@
 | AI-900 Компьютерное зрение | Анализ изображений в Visual Studio | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2250145) |
 | Обработка естественного языка AI-900 | Анализ текста с помощью Language Studio | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2250314) |
 | Аналитика документов AI-900 | Извлечение данных формы в Document Intelligence Studio | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2250315) |
-| AI-900 Generative AI | Изучение генеривных ИИ с помощью Bing Copilot | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2249955) |
+| AI-900 Generative AI | Изучение Microsoft Copilot в Microsoft Edge | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2249955) |
 
 
