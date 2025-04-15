@@ -13,9 +13,9 @@
 | Задание с инструктором AI-900 № | Раздел | Instructions |
 | --- | --- | --- |
 | Обзор ИИ-900 | Изучение служб ИИ Azure | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2250253) |
-| AI-900 Компьютерное зрение | Анализ изображений в Visual Studio | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2250145) |
-| Обработка естественного языка AI-900 | Анализ текста с помощью Language Studio | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2250314) |
-| Аналитика документов AI-900 | Извлечение данных формы в Document Intelligence Studio | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2250315) |
-| AI-900 Generative AI | Изучение Microsoft Copilot в Microsoft Edge | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2249955) |
+| AI-900 Компьютерное зрение | Анализ изображений в Azure AI Foundry | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2250145) |
+| Обработка естественного языка AI-900 | Анализ текста с помощью Azure AI Foundry | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2250314) |
+| Аналитика документов AI-900 | Извлечение данных формы в Azure AI Foundry | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2250315) |
+| AI-900 Generative AI | Изучение создания искусственного интеллекта в Azure AI Foundry | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2249955) |
 
 
