@@ -12,10 +12,11 @@
 
 | Задание с инструктором AI-900 № | Раздел | Instructions |
 | --- | --- | --- |
-| Обзор ИИ-900 | Изучение служб ИИ Azure | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2250253) |
-| AI-900 Компьютерное зрение | Анализ изображений в Azure AI Foundry | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2250145) |
-| Обработка естественного языка AI-900 | Анализ текста с помощью Azure AI Foundry | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2250314) |
-| Аналитика документов AI-900 | Извлечение данных формы в Azure AI Foundry | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2250315) |
-| AI-900 Generative AI | Изучение создания искусственного интеллекта в Azure AI Foundry | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2249955) |
+| AI-900 Generative AI | Изучение создания искусственного интеллекта на портале Azure AI Foundry | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2249955) |
+| Обработка естественного языка AI-900 | Анализ текста с помощью портала Azure AI Foundry | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2250314) |
+| Речь СИ-900 | Изучение речи на портале Azure AI Foundry | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2250148) |
+| AI-900 Компьютерное зрение | Анализ изображений на портале Azure AI Foundry | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2250145) |
+| Извлечение сведений СИ-900 | Извлечение данных с помощью службы "Основные сведения о содержимом" на портале Azure AI Foundry | [Инструкции по лаборатории](https://go.microsoft.com/fwlink/?linkid=2320420) |
+
 
 
