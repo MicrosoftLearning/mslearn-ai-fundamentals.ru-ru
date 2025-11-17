@@ -1,3 +1,5 @@
+**⚠️ This GitHub repo will retire on 28th November 2025.** 
+
 # Основные упражнения по использованию искусственного интеллекта Microsoft Azure
 
 Этот репозиторий содержит инструкции и ресурсы для практических упражнений в Microsoft Official Courseware для поддержки [сертификации Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/credentials/certifications/azure-ai-fundamentals/) . Упражнения предназначены для дополнения связанных учебных модулей в [Microsoft Learn](https://learn.microsoft.com/training), а <u>подмножество</u> этих упражнений состоит из практических лабораторий в официальном [учебном курсе на основе ИИ-900: Microsoft Azure Ai Fundamentals](https://learn.microsoft.com/en-us/training/courses/ai-900t00) под руководством инструктора.
